@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "983055968483",
+    "project_id": "fire-setup-3bdb5",
+    "storage_bucket": "fire-setup-3bdb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983055968483:android:2c1783cf7a957a1fd63dd6",
+        "android_client_info": {
+          "package_name": "com.example.camera_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfZ-sV_WjxND4E-q469fyklyi-OWo5s3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
